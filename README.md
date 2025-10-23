@@ -23,4 +23,4 @@ root
     \__ etc..
 ```
 
-Since problably all the books in the tech area has code that should be rewritten to fully understand it: I will be storing all the code (problably with comments in it) alogn with makrdown notes inside of each chapter directory.
+Since problably all the books in the tech area has code that should be rewritten to fully understand it: I will be storing all the code (problably with comments in it) along with makrdown notes inside of each chapter directory.
